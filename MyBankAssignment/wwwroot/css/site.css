@@ -1,0 +1,42 @@
+html {
+  font-size: 14px;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+h1{
+    color: cornflowerblue
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+s
+body {
+  margin-bottom: 60px;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+h1 {
+    color: cornflowerblue
+}
+
+.bankInfo{
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
